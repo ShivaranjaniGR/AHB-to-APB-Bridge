@@ -112,9 +112,6 @@ SINGLE READ -
 <img width="1082" height="516" alt="image" src="https://github.com/user-attachments/assets/3e009afd-a5ab-406a-81e9-cfde46c07fb0" />
 ---
 
-SINGLE WRITE -
-<img width="996" height="505" alt="image" src="https://github.com/user-attachments/assets/330482f1-7514-4b95-a3a8-e84e1c43b8b5" />
-
 
 ## Further Work
 
