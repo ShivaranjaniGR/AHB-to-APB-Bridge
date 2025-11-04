@@ -96,6 +96,7 @@ The bridge performs the following operations:
 - Only the **Bridge** module is **synthesizable**.  
 - Screenshots from simulation and synthesis tools are provided below.
 
+<img width="1865" height="512" alt="image" src="https://github.com/user-attachments/assets/5e38e60c-bc32-468e-addb-d573685d46fb" />
 
 
 
