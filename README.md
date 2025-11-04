@@ -90,20 +90,6 @@ The bridge performs the following operations:
 
 ---
 
-## Design Modules
-
-### AHB Slave Interface
-The **AHB slave** responds to transactions initiated by an AHB master.  
-It uses the `HSELx` signal from the decoder to determine when to respond.  
-Address and control signals are provided by the master.
-
-### APB Controller
-The **APB controller** (inside the bridge) consists of:
-- A **state machine** that generates AHB and APB control signals  
-- Address decoding logic that produces **PSELx** for the appropriate peripheral  
-
----
-
 ## Notes
 
 - The repository includes **AHB Master** and **APB Slave** modules used as **testbenches** to drive and validate the bridge.  
