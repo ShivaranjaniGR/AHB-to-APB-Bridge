@@ -38,7 +38,8 @@ It minimizes power consumption and interface complexity while maintaining compat
 
 ### Overall Architecture
 
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/ea4d35cf-492e-4e59-9830-be47ba7c7a6f)
+<img width="797" height="340" alt="image" src="https://github.com/user-attachments/assets/ff9510d9-7509-4a41-b3e7-785550f2e3df" />
+
 
 ---
 
@@ -84,7 +85,8 @@ The bridge performs the following operations:
 
 **Bridge Interface Diagram:**
 
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/dc157751-d470-4681-b238-846ee2940766)
+<img width="1145" height="632" alt="image" src="https://github.com/user-attachments/assets/8d4d8c72-3f5e-47ef-b280-2efb2bce1463" />
+
 
 ---
 
@@ -108,23 +110,7 @@ The **APB controller** (inside the bridge) consists of:
 - Only the **Bridge** module is **synthesizable**.  
 - Screenshots from simulation and synthesis tools are provided below.
 
----
 
-## Simulation Results
-
-### SINGLE WRITE Operation
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/2e2d96a7-a1db-44ea-9938-7a4f913ff82a)
-
-### SINGLE READ Operation
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/b1bb7367-965a-4bb7-8c01-5de09d3c87b8)
-
-### BURST WRITE (INCR4)
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/81992a07-de71-4a0c-a9c5-6045ecd914a2)
-
-### BURST READ (INCR4)
-![image](https://github.com/Hashmi-Vardhan/AHB-to-APB-Bridge/assets/133083707/c198413a-b483-4689-83db-f7d5649d859c)
-
----
 
 
 ## Further Work
