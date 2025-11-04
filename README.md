@@ -95,9 +95,25 @@ The bridge performs the following operations:
 - The repository includes **AHB Master** and **APB Slave** modules used as **testbenches** to drive and validate the bridge.  
 - Only the **Bridge** module is **synthesizable**.  
 - Screenshots from simulation and synthesis tools are provided below.
-
+--------------
+Waveforms:
+BURST READ -
 <img width="1865" height="512" alt="image" src="https://github.com/user-attachments/assets/5e38e60c-bc32-468e-addb-d573685d46fb" />
+----------
 
+
+BURST WRITE -
+<img width="1836" height="507" alt="image" src="https://github.com/user-attachments/assets/bdb9886e-b93d-4476-b4a8-8f263ea7b010" />
+
+----
+
+
+SINGLE READ - 
+<img width="1082" height="516" alt="image" src="https://github.com/user-attachments/assets/3e009afd-a5ab-406a-81e9-cfde46c07fb0" />
+---
+
+SINGLE WRITE -
+<img width="996" height="505" alt="image" src="https://github.com/user-attachments/assets/330482f1-7514-4b95-a3a8-e84e1c43b8b5" />
 
 
 ## Further Work
